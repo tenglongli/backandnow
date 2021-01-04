@@ -10,7 +10,7 @@ Bayesian back-calculation and nowcasting for line list data during the COVID-19 
 ## Source code
 - `backnow.cpp`: Bayesian back-calculation and nowcasting. 
 
-## Final Result: Clean output used in the paper
+## Final Result: clean output used in the paper
 - `result.R`: Code for generating all the figures and tables.
 - `count.rds`: Daily case count estimates for complete line list data.
 - `count_ss.rds`: Daily case count estimates for delayed surveillance initiation.
