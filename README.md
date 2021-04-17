@@ -21,3 +21,4 @@ Bayesian back-calculation and nowcasting for line list data during the COVID-19 
 - `eva1.rds`: Coverage rates and RMSE for complete line list data.
 - `eva2.rds`: Coverage rates and RMSE for delayed surveillance initiation.
 - `eva3.rds`: Coverage rates and RMSE for real time estimation.
+- `geweke.rds`: Geweke's diagnostics 
