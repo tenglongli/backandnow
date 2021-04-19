@@ -22,3 +22,6 @@ Bayesian back-calculation and nowcasting for line list data during the COVID-19 
 - `eva2.rds`: Coverage rates and RMSE for delayed surveillance initiation.
 - `eva3.rds`: Coverage rates and RMSE for real time estimation.
 - `geweke.rds`: Geweke's diagnostics 
+
+## Daily flow rates in Massachusetts
+- `pop_flow_county_byday_dataframe.csv`: Data containing average daily flow rates over all Massachusetts counties. 
